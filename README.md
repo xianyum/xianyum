@@ -1,17 +1,12 @@
+<h2 align="center">你活得像诗 没有归宿却足够酷 🏝</h2>
+
+<p align="center">No man ever steps in the same river twice, for it's not the same river and he's not the same man.  —— Heraclitus</p>
+
+<image src="https://pic4.zhimg.com/v2-da3853cc1f373e9af570b7a8fe372da7_r.gif" align="center" alt="GIF" />
+
+<h2 align="center"><image src="https://github.com/RoyRao2333/royrao2333/raw/main/assets/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966.gif" alt="GIF" width="24px" /> Hi! This is Roy</h2>
+
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);一只有梦想的咸鱼~&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
-<p><b>Technology has the power to make the world a better place</b></p>
-</div>
 
 ## Hi! Nice to meet you!
 
