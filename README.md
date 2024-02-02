@@ -25,8 +25,8 @@
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @Lorin-github
+- 👋 Hi, I’m @xianyum
 - 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
 - 🌱 I’m currently learning database, AI,Chrome plug -in development.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: gmqiujun@gmail.com
+- 📫 How to reach me? Email: 80616059@qq.com
