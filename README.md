@@ -4,8 +4,6 @@
 
 <image src="https://pic4.zhimg.com/v2-da3853cc1f373e9af570b7a8fe372da7_r.gif" align="center" alt="GIF" />
 
-<h2 align="center"><image src="https://github.com/RoyRao2333/royrao2333/raw/main/assets/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966.gif" alt="GIF" width="24px" /> Hi! This is Roy</h2>
-
 <div align="center">
 
 ## Hi! Nice to meet you!
