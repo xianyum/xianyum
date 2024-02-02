@@ -9,8 +9,8 @@
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-👋 Hi, I’m @xianyum
-👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-🌱 I’m currently learning database, AI,Chrome plug -in development.
-💞️ I’m looking to collaborate on article synchronization assistant.
-📫 How to reach me? Email: 80616059@qq.com
+<div>👋 Hi, I’m @xianyum</div>
+<div>👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.</div>
+<div>🌱 I’m currently learning database, AI,Chrome plug -in development.</div>
+<div>💞️ I’m looking to collaborate on article synchronization assistant.</div>
+<div>📫 How to reach me? Email: 80616059@qq.com</div>
