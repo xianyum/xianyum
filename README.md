@@ -16,6 +16,6 @@
 <div>📫 How to reach me? Email: 80616059@qq.com</div>
 
 <div align="center">
-![HuiDBK's github activity graph](https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg)
+![HuiDBK's github activity graph](https://raw.githubusercontent.com/xianyum/xianyum/output/github-contribution-grid-snake.svg)
 
 
