@@ -14,3 +14,8 @@
 <div>🌱 I’m currently learning database, AI,Chrome plug -in development.</div>
 <div>💞️ I’m looking to collaborate on article synchronization assistant.</div>
 <div>📫 How to reach me? Email: 80616059@qq.com</div>
+
+<div align="center">
+![HuiDBK's github activity graph](https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg)
+
+
